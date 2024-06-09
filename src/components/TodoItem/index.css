@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.list-con {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  justify-content: space-between;
+}
+.del-btn {
+  width: 80px;
+  cursor: pointer;
+  height: 30px;
+  border-radius: 8px;
+  background-color: transparent;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  margin-left: 20px;
+}

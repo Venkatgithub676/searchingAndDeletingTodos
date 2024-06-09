@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.bg-container {
+  height: 100vh;
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-container {
+  background-color: #ffffff;
+  width: 80%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+
+.ul-con {
+  padding: 0;
+  width: 80%;
+}
